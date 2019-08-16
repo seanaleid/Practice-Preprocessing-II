@@ -251,3 +251,20 @@ img {
   width: 30%;
   margin-bottom: 30px;
 }
+.home .content-pick .destination .btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #008080;
+  cursor: pointer;
+  width: 80%;
+  height: 15%;
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-size: 15px;
+  padding: 5px;
+}
+.home .content-pick .destination .btn:hover {
+  background-color: #FFFFFF;
+  color: #008080;
+}
