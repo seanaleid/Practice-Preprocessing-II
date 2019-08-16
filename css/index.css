@@ -268,3 +268,26 @@ img {
   background-color: #FFFFFF;
   color: #008080;
 }
+.home .submit form input[type=text] {
+  font-size: 15px;
+  color: #C0C0C0;
+  font-style: italic;
+  display: flex;
+}
+.home .submit form input[type=submit] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #008080;
+  cursor: pointer;
+  width: 80%;
+  height: 15%;
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-size: 15px;
+  padding: 5px;
+}
+.home .submit form input[type=submit]:hover {
+  background-color: #FFFFFF;
+  color: #008080;
+}
